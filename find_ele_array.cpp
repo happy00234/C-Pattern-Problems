@@ -1,4 +1,4 @@
-
+//finding an element in array
 #include <iostream>
 using namespace std;
 
